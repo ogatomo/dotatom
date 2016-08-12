@@ -1,5 +1,13 @@
 "*":
   "exception-reporting":
     userId: "47c8b0ed-e795-70b2-5832-b07d1bf94b8c"
+  minimap:
+    plugins:
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      "minimap-autohide": true
+      "minimap-autohideDecorationsZIndex": 0
   welcome:
     showOnStartup: false
