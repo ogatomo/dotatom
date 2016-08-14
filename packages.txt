@@ -6,6 +6,7 @@ autocomplete-sass@0.1.0
 blame@0.10.0
 color-picker@2.2.2
 highlight-selected@0.11.2
+linter@1.11.16
 linter-csslint@1.3.2
 linter-hlint@0.4.3
 linter-jshint@2.1.0
