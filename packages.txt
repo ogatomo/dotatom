@@ -1,6 +1,7 @@
 atom-alignment@0.12.1
 atom-beautify@0.29.10
 atom-html-preview@0.1.22
+auto-encoding@0.6.2
 autocomplete-paths@1.0.2
 autocomplete-sass@0.1.0
 blame@0.10.0
