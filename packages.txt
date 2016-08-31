@@ -26,5 +26,6 @@ pigments@0.31.2
 project-manager@2.9.7
 tablr@1.5.0
 tag@0.4.0
+terminal-plus@0.14.5
 
 
