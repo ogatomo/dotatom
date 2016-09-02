@@ -1,5 +1,8 @@
 "*":
   core: {}
+  editor:
+    softWrap: true
+    softWrapAtPreferredLineLength: true
   "exception-reporting":
     userId: "47c8b0ed-e795-70b2-5832-b07d1bf94b8c"
   minimap:
