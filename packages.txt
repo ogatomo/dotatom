@@ -26,7 +26,7 @@ minimap-highlight-selected@4.4.0
 open-recent@5.0.0
 open-terminal-here@2.1.4
 pigments@0.34.0
-project-manager@2.9.7
+project-manager@3.2.0
 tablr@1.5.2
 tag@0.4.0
 

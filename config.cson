@@ -1,6 +1,7 @@
 "*":
   core: {}
   editor:
+    preferredLineLength: 100
     softWrap: true
     softWrapAtPreferredLineLength: true
   "exception-reporting":
