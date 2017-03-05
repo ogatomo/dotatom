@@ -1,5 +1,5 @@
 ```
-apm list -bi > packages.txt
+apm list -bi | sed -e 's/@[0-9.]*$//g' > packages.txt 
 ```
 
 ```
