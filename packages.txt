@@ -35,7 +35,5 @@ tablr
 tag
 markdown-writer
 markdown-scroll-sync
-tool-bar-markdown-writer
-tool-bar
 markdown-folder
 markdown-toc
