@@ -11,6 +11,7 @@ busy-signal
 color-picker
 file-icons
 git-plus
+git-time-machine
 highlight-selected
 intentions
 language-ansible
@@ -32,4 +33,9 @@ pigments
 project-manager
 tablr
 tag
-
+markdown-writer
+markdown-scroll-sync
+tool-bar-markdown-writer
+tool-bar
+markdown-folder
+markdown-toc
