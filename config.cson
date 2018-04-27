@@ -6,6 +6,8 @@
     softWrapAtPreferredLineLength: true
   "exception-reporting":
     userId: "47c8b0ed-e795-70b2-5832-b07d1bf94b8c"
+  "linter-ui-default":
+    panelHeight: 69
   minimap:
     plugins:
       "git-diff": true

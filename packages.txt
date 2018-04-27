@@ -15,13 +15,18 @@ git-time-machine
 highlight-selected
 intentions
 language-ansible
+language-terraform
 linter
 linter-csslint
 linter-hlint
 linter-jshint
 linter-php
 linter-ui-default
+markdown-folder
+markdown-scroll-sync
 markdown-table-formatter
+markdown-toc
+markdown-writer
 maximize-panes
 minimap
 minimap-autohide
@@ -33,9 +38,4 @@ pigments
 project-manager
 tablr
 tag
-markdown-writer
-markdown-scroll-sync
-markdown-folder
-markdown-toc
-language-terraform
 
