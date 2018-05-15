@@ -9,13 +9,13 @@ autocomplete-php
 blame
 busy-signal
 color-picker
-docker
 file-icons
 git-plus
 git-time-machine
 highlight-selected
 intentions
 language-ansible
+language-docker
 language-terraform
 linter
 linter-csslint
