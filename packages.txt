@@ -9,6 +9,7 @@ autocomplete-php
 blame
 busy-signal
 color-picker
+docker
 file-icons
 git-plus
 git-time-machine
@@ -38,4 +39,5 @@ pigments
 project-manager
 tablr
 tag
+yard
 

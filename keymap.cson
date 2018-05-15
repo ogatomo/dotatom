@@ -33,3 +33,4 @@
 
 'atom-text-editor':
   'ctrl-b': 'core:move-left'
+  'ctrl-enter': 'yard:create'
